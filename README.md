@@ -69,7 +69,7 @@ The data transformation process followed these steps:
 
 ---
 
-## 🔗 LinkedIn / Demo
+## 🔗 Demo
 
 - 🎥 [Watch Workspace Running in FME Workbench](https://github.com/user-attachments/assets/b592e7fd-39fc-4f47-8ee1-c8b9ca6b057d)  
 - 🎥 [Watch Final Output with Sorted Data in FME Data Inspector](https://github.com/user-attachments/assets/19ac9722-8a62-4abd-b245-282a6cb6369b)
