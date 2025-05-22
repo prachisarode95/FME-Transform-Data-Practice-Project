@@ -2,7 +2,7 @@
 
 ## 📘 About the Project
 
-This project is a hands-on exercise from the **FME Form Basic course** by Safe Software, under the "Transform Data" path. It demonstrates how to read JSON data from an API, extract and transform spatial and non-spatial data, join it with local datasets, and output a cleaned and sorted result. The entire workflow was built and executed using **FME Workbench 2024.2**, showcasing real-world data integration and transformation techniques.
+This project is a hands-on exercise from the **FME Form Basic course** by **Safe Software**, under the "Transform Data" path. It demonstrates how to read JSON data from an API, extract and transform spatial and non-spatial data, join it with local datasets, and output a cleaned and sorted result. The entire workflow was built and executed using **FME Workbench 2024.2**, showcasing real-world data integration and transformation techniques.
 
 ---
 
